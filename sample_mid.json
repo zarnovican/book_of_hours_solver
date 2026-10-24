@@ -1,0 +1,656 @@
+{
+  "inventory_addition": [
+    "beverage.ch_second_flush_assam_cup",
+    "beverage.dawnlion_coffee_cup",
+    "beverage.dawnlion_coffee_cup",
+    "beverage.roscraggan_whisky_bottle",
+    "device.pale_mommet",
+    "flower.agave_aeterna",
+    "flower.blue_crown",
+    "flower.blue_crown",
+    "flower.fragrant_chalice",
+    "leaf.vase_of_gorse",
+    "lesson.inks_of_revelation",
+    "lesson.preliminal_meter",
+    "lesson.preliminal_meter",
+    "liquid.cuckoo_honey",
+    "liquid.honey",
+    "liquid.paint_bosk_green",
+    "material.beeswax",
+    "material.gervinite"
+  ],
+  "inventory_removal": [
+    "beverage.armagnac_dys_glass",
+    "beverage.armagnac_dys_glass",
+    "beverage.ch_second_flush_assam_cup",
+    "beverage.ch_second_flush_assam_cup",
+    "beverage.ch_second_flush_assam_cup",
+    "beverage.dandelion_wine_glass",
+    "beverage.dandelion_wine_glass",
+    "beverage.dawnlion_coffee_cup",
+    "beverage.mist_kissed_water_glass",
+    "beverage.roscraggan_whisky_glass",
+    "beverage.schloss_jannings_glass",
+    "beverage.trn_limited_drinking_cocoa_cup",
+    "beverage.trn_limited_drinking_cocoa_cup",
+    "beverage.trn_limited_drinking_cocoa_cup",
+    "beverage.veiled_goddess_lapsang_souchong_cup",
+    "candle.aglaophotis_scented_candle",
+    "candle.bedside_candleholder",
+    "candle.chalice_candle",
+    "candle.honeyscar_scented_candle",
+    "candle.small_candlestick",
+    "candle.small_candlestick",
+    "candle.small_candlestick",
+    "candle.tall_candlestick",
+    "candle.tall_candlestick",
+    "candle.widows_candle",
+    "candle.widows_candle",
+    "candle.widows_candle",
+    "liquid.ashartine",
+    "liquid.catwink",
+    "liquid.catwink",
+    "liquid.honey",
+    "liquid.houndsgall",
+    "liquid.perinculate",
+    "sustenance.soft_amber_pumpkin"
+  ],
+  "memory": [],
+  "mystery_item": {
+    "a_descent_of_the_shell": {
+      "mastered": false
+    },
+    "a_journey_to_the_grove": {
+      "mastered": false
+    },
+    "a_light_in_the_inkwell": {},
+    "a_second_glory": {
+      "mastered": false
+    },
+    "a_seventh_voice": {},
+    "a_shape_in_smoke": {},
+    "a_tower_falls": {
+      "mastered": false,
+      "type": "phonograph_record"
+    },
+    "a_tower_rises": {
+      "mastered": false,
+      "type": "phonograph_record"
+    },
+    "advice_on_containment": {},
+    "against_the_sisterhood_of_the_knot_and_the_foulness_of_their_depraved_customs": {},
+    "against_vitruvius": {},
+    "ambrosial": {},
+    "an_echo_of_silence": {
+      "mastered": false
+    },
+    "an_exorcists_field_manual": {},
+    "an_impertinent_vitulation": {},
+    "an_investigation_of_a_foundered_country": {
+      "type": "phonograph_record"
+    },
+    "annals_of_st_brandans": {},
+    "apollo_and_marsyas": {},
+    "book_of_true_blood": {
+      "mastered": false
+    },
+    "cardeas_delights": {},
+    "chione_at_abydos": {},
+    "codex_acephali": {},
+    "collected_hush_house_lectures": {},
+    "colours_in_the_liver": {
+      "type": "reel_of_film"
+    },
+    "commandments_for_the_preservation_of_all_that_exists": {
+      "mastered": false
+    },
+    "cucurbit_prisoner_records_1928": {
+      "mastered": false
+    },
+    "de_motu_corporum_vetitorum": {},
+    "deaths_and_their_evasions": {
+      "mastered": false
+    },
+    "enchiridion_tragularis": {
+      "mastered": false
+    },
+    "evas_treasury": {},
+    "exercises_in_the_continuity_of_self": {},
+    "exorcism_for_girls": {},
+    "fekris_herbary": {},
+    "five_creations": {
+      "mastered": false
+    },
+    "from_history_to_eternity": {
+      "mastered": false
+    },
+    "gospel_of_nicodemus": {},
+    "in_the_malleary": {},
+    "inaam_kapigiginlupir_garkie_cryppys": {
+      "mastered": false
+    },
+    "isaac_of_karths_history_of_the_shadowless_kings": {
+      "mastered": false
+    },
+    "it_is_written": {},
+    "journal_of_sir_david_greene": {
+      "mastered": false
+    },
+    "journal_of_thomas_dewulf": {},
+    "key_of_night": {},
+    "lake_fucino_recordings": {
+      "type": "phonograph_record"
+    },
+    "letters_from_a_fugitive": {},
+    "letters_to_my_successor": {},
+    "medusas_lament": {
+      "mastered": false
+    },
+    "musgraves_sketches": {},
+    "my_deeds_my_powers_my_achievements_and_the_injustices_perpetrated_against_me": {
+      "mastered": false
+    },
+    "nyns_cages_avignon_text": {
+      "mastered": false
+    },
+    "nyns_cages_bruges_text": {
+      "mastered": false
+    },
+    "oblations_in_iron": {},
+    "old_coppernose_and_the_softer_metal": {},
+    "on_resonance": {},
+    "on_the_winding_stair": {
+      "mastered": false
+    },
+    "on_what_is_contained_by_silver": {},
+    "opus_magnum_caeruleum": {},
+    "perugian_diaries": {},
+    "prophecies_of_glory": {},
+    "recordings_from_the_althiban_abyss": {
+      "mastered": false,
+      "type": "phonograph_record"
+    },
+    "seven_faces_of_icarus": {},
+    "snare_of_the_tree_collected_proverbs_of_aunt_mopsy": {
+      "mastered": false
+    },
+    "the_alloy_of_the_white_rose": {
+      "mastered": false
+    },
+    "the_amalgam_of_the_red_rose": {},
+    "the_ascendant": {
+      "mastered": false
+    },
+    "the_barrowchilds_elegies": {},
+    "the_bee_keepers_ends": {},
+    "the_black_book_of_brittany": {
+      "mastered": false
+    },
+    "the_book_of_masks": {
+      "mastered": false
+    },
+    "the_book_of_the_centipede": {},
+    "the_burning_woman": {
+      "mastered": false
+    },
+    "the_carmine_petal_revised": {
+      "mastered": false
+    },
+    "the_ceaseless_tantra": {},
+    "the_chandlers_wish": {
+      "mastered": false
+    },
+    "the_debate_of_seven_cups": {
+      "mastered": false
+    },
+    "the_devoured_tantra": {},
+    "the_dream_of_the_conspiracy_of_the_lower_skies": {
+      "mastered": false
+    },
+    "the_elations_of_limentinus": {},
+    "the_encircling_tantra": {},
+    "the_fire_circle_tantra": {
+      "type": "scroll"
+    },
+    "the_gospel_of_zacchaeus": {
+      "mastered": false
+    },
+    "the_high_mysteries_of_the_innermost_chamber_of_our_church_solar": {
+      "mastered": false
+    },
+    "the_humours_of_a_gentleman": {},
+    "the_incandescent_tantra": {
+      "type": "scroll"
+    },
+    "the_intimations_of_skin": {},
+    "the_iron_book": {
+      "mastered": false
+    },
+    "the_ivory_book": {},
+    "the_leonine_tantra": {
+      "type": "scroll"
+    },
+    "the_locksmiths_dream_a_light_through_the_keyhole": {},
+    "the_locksmiths_dream_stolen_reflections": {},
+    "the_manner_in_which_the_alchemist_was_spared": {
+      "mastered": false
+    },
+    "the_mirror_of_melancthe": {},
+    "the_moons_egg": {},
+    "the_orchid_transfigurations_a_feast": {},
+    "the_origins_of_hours": {
+      "mastered": false
+    },
+    "the_queens_of_the_rivers": {},
+    "the_radical_measure": {},
+    "the_radical_measure_glossed": {},
+    "the_red_book_of_brittany": {
+      "mastered": false
+    },
+    "the_republic_of_teeth": {},
+    "the_scar_in_the_sky": {
+      "mastered": false
+    },
+    "the_sea_does_not_regret": {},
+    "the_shadow_in_the_stair": {},
+    "the_six_letters_on_necessity": {},
+    "the_temptations_of_architecture": {},
+    "the_twelve_letters_on_consequence": {},
+    "the_victory_of_crowns": {},
+    "the_vinzant_inscriptions": {},
+    "the_white_book_of_brittany": {
+      "mastered": false
+    },
+    "the_winds_ruin": {},
+    "the_world_does_not_weep": {
+      "mastered": false
+    },
+    "those_indignities_perpetrated_by_the_deceitful_fraternity_of_obliviates": {},
+    "three_flowers_hath_the_tree": {},
+    "to_a_pale_lady": {},
+    "travelling_at_night_vol_1": {},
+    "travelling_at_night_vol_2": {},
+    "twenty_six_enticements_seven_torments": {
+      "mastered": false
+    },
+    "two_wombs_one_heart": {
+      "mastered": false
+    },
+    "ud_rocashaas": {
+      "mastered": false
+    },
+    "unhatched_hymns": {
+      "mastered": false
+    },
+    "velletri_interviews": {
+      "type": "phonograph_record"
+    },
+    "warming_draughts_to_uplift_the_heart": {},
+    "what_does_not_bark": {}
+  },
+  "room": [
+    "atrium",
+    "chancel_of_the_abbey_church",
+    "chapter_house",
+    "church_tower",
+    "deep_well_descent",
+    "duelling_hall",
+    "entrance_hall",
+    "examination_room",
+    "fludd_gallery",
+    "foundry",
+    "glorious_stair",
+    "grand_ascent_first_floor",
+    "grand_ascent_ground_floor",
+    "grand_ascent_second_floor",
+    "grand_ascent_third_floor",
+    "hall_of_division",
+    "infirmary",
+    "keepers_lodge",
+    "kitchen",
+    "kitchen_garden",
+    "librarians_quarters",
+    "long_tower_solomons_quarters",
+    "long_tower_solomons_study",
+    "map_room",
+    "mazarine_room",
+    "motley_tower_dispensary",
+    "motley_tower_illopolys_nook",
+    "motley_tower_regensburg_room",
+    "nave_of_the_abbey_church",
+    "night_gallery",
+    "pale_chamber",
+    "pantry",
+    "patients_lounge",
+    "physic_garden",
+    "practic_garden",
+    "radiant_stair",
+    "reading_room",
+    "sacred_spring",
+    "scent_garden",
+    "servants_hall",
+    "servants_quarters_south",
+    "severn_chamber",
+    "solarium",
+    "st_brandans_cloister",
+    "stair_tenebrous",
+    "vestibulum_transitus",
+    "violet_chamber",
+    "watchmans_tower_first_floor",
+    "watchmans_tower_gatehouse",
+    "watchmans_tower_observatory",
+    "well",
+    "well_descent",
+    "westcott_room",
+    "windlit_gallery"
+  ],
+  "season": "summer",
+  "skill": {
+    "anbary_and_lapidary": {
+      "level_cap": 8
+    },
+    "applebright_euphonies": {
+      "level_cap": 5
+    },
+    "bells_and_brazieries": {
+      "level_cap": 3
+    },
+    "coil_and_chasm": {},
+    "cracktrack": {
+      "committed_to": "preservation",
+      "level_cap": 1
+    },
+    "deep_mandaic": {
+      "enable": false,
+      "level_cap": 1
+    },
+    "desires_and_dissolutions": {
+      "level_cap": 4
+    },
+    "disciplines_of_the_hammer": {
+      "enable": false,
+      "level_cap": 7
+    },
+    "disciplines_of_the_scar": {
+      "enable": false,
+      "level_cap": 3
+    },
+    "door_and_wall": {
+      "level_cap": 3
+    },
+    "drums_and_dances": {
+      "level": 2,
+      "level_cap": 8
+    },
+    "edicts_inviolable": {
+      "level_cap": 7
+    },
+    "edicts_liminal": {
+      "level_cap": 5
+    },
+    "edicts_martial": {
+      "level": 7
+    },
+    "ericapaean": {
+      "committed_to": "hushery",
+      "level_cap": 1
+    },
+    "fucine": {
+      "committed_to": "ithastry",
+      "level": 2,
+      "level_cap": 2
+    },
+    "furs_and_feathers": {
+      "committed_to": "the_bosk",
+      "level": 2,
+      "level_cap": 2
+    },
+    "glassblowing_and_vesselcrafting": {
+      "level_cap": 6
+    },
+    "glaziery_and_lightsmithing": {
+      "enable": false,
+      "level_cap": 4
+    },
+    "herbs_and_infusions": {
+      "level": 3,
+      "level_cap": 6
+    },
+    "hill_and_hollow": {
+      "committed_to": "preservation",
+      "level": 2,
+      "level_cap": 2
+    },
+    "horns_and_ivories": {
+      "level_cap": 4
+    },
+    "hyksos": {
+      "enable": false,
+      "level_cap": 2
+    },
+    "inks_of_containment": {
+      "level": 5,
+      "level_cap": 8
+    },
+    "inks_of_power": {},
+    "inks_of_revelation": {
+      "level": 3,
+      "level_cap": 7
+    },
+    "insects_and_nectars": {},
+    "kernewek_henavek": {
+      "enable": false,
+      "level_cap": 3
+    },
+    "killasimi": {
+      "enable": false,
+      "level_cap": 2
+    },
+    "leaves_and_thorns": {
+      "level": 5
+    },
+    "lockworks_and_clockworks": {
+      "level_cap": 7
+    },
+    "maggephene_mysteries": {
+      "enable": false,
+      "level_cap": 4
+    },
+    "meniscate_reflections": {
+      "level_cap": 5
+    },
+    "orchids_and_narcotics": {
+      "enable": false,
+      "level_cap": 7
+    },
+    "ouranoscopy": {
+      "level_cap": 7
+    },
+    "path_and_pilgrim": {
+      "level": 7,
+      "level_cap": 8
+    },
+    "pearl_and_tide": {
+      "level_cap": 5
+    },
+    "pentiments_and_precursors": {
+      "level_cap": 3
+    },
+    "preliminal_meter": {
+      "level_cap": 8
+    },
+    "purifications_and_exaltations": {
+      "committed_to": "illumination",
+      "level_cap": 1
+    },
+    "putrefactions_and_calcinations": {
+      "level_cap": 6
+    },
+    "pyroglyphics": {
+      "committed_to": "illumination",
+      "level": 2,
+      "level_cap": 2
+    },
+    "quenchings_and_quellings": {
+      "committed_to": "preservation",
+      "level": 4,
+      "level_cap": 4
+    },
+    "ragged_crossroads": {
+      "level": 2
+    },
+    "ramsund": {
+      "enable": false,
+      "level_cap": 1
+    },
+    "resurgences_and_emergences": {
+      "level_cap": 6
+    },
+    "rhyme_and_remembrance": {
+      "level_cap": 3
+    },
+    "sabazine": {
+      "enable": false,
+      "level_cap": 2
+    },
+    "sacra_limiae": {
+      "enable": false,
+      "level_cap": 4
+    },
+    "sacra_solis_invicti": {
+      "level_cap": 6
+    },
+    "sand_stories": {
+      "level_cap": 6
+    },
+    "sea_stories": {
+      "enable": false,
+      "level_cap": 2
+    },
+    "serpents_and_venoms": {
+      "level_cap": 7
+    },
+    "sharps": {
+      "level_cap": 5
+    },
+    "sickle_and_eclipse": {
+      "level_cap": 4
+    },
+    "sights_and_sensations": {
+      "level": 3,
+      "level_cap": 8
+    },
+    "sky_stories": {
+      "level": 2,
+      "level_cap": 8
+    },
+    "snow_stories": {
+      "committed_to": "hushery",
+      "level": 2,
+      "level_cap": 2
+    },
+    "solutions_and_separations": {
+      "level": 4,
+      "level_cap": 8
+    },
+    "spices_and_savours": {
+      "level_cap": 5
+    },
+    "stitching_and_binding": {
+      "enable": false,
+      "level_cap": 6
+    },
+    "stone_stories": {
+      "enable": false,
+      "level_cap": 8
+    },
+    "strings_and_songs": {
+      "level": 7,
+      "level_cap": 7
+    },
+    "surgeries_and_exsanguinations": {
+      "committed_to": "preservation",
+      "level": 3,
+      "level_cap": 3
+    },
+    "the_great_signs_and_the_great_scars": {
+      "level": 5,
+      "level_cap": 5
+    },
+    "transformations_and_liberations": {
+      "level": 7
+    },
+    "tridesma_hiera": {
+      "enable": false,
+      "level_cap": 5
+    },
+    "vak": {
+      "enable": false,
+      "level_cap": 1
+    },
+    "watchmans_paradoxes": {
+      "level_cap": 7
+    },
+    "weaving_and_knotworking": {
+      "committed_to": "the_bosk",
+      "level_cap": 1
+    },
+    "wolf_stories": {
+      "enable": false,
+      "level_cap": 5
+    }
+  },
+  "soul": [
+    {
+      "name": "chor"
+    },
+    {
+      "name": "chor"
+    },
+    {
+      "name": "fet"
+    },
+    {
+      "name": "fet"
+    },
+    {
+      "name": "health",
+      "state": "malady"
+    },
+    {
+      "name": "health",
+      "state": "malady"
+    },
+    {
+      "name": "health"
+    },
+    {
+      "name": "health"
+    },
+    {
+      "name": "health"
+    },
+    {
+      "name": "mettle"
+    },
+    {
+      "name": "mettle"
+    },
+    {
+      "name": "phost"
+    },
+    {
+      "name": "trist"
+    },
+    {
+      "name": "trist"
+    },
+    {
+      "name": "wist"
+    },
+    {
+      "name": "wist"
+    }
+  ],
+  "weather": []
+}

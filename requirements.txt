@@ -1,0 +1,2 @@
+frozendict
+streamlit==1.66.1
